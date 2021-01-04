@@ -1,4 +1,4 @@
-package de.janchristoph.wait_for_database;
+package de.jclohmann.wait_for_database;
 
 import com.zaxxer.hikari.pool.HikariPool;
 import liquibase.Liquibase;
