@@ -11,7 +11,7 @@
 
     <groupId>de.jclohmann</groupId>
     <artifactId>wait-for-database-spring-boot-starter</artifactId>
-    <version>0.2-SNAPSHOT</version>
+    <version>0.1.1</version>
 
     <name>wait-for-database-spring-boot-starter</name>
     <description>Configures spring boot to wait for a running database.</description>
@@ -106,7 +106,7 @@
         <connection>scm:git:git@github.com:jclohmann/wait-for-database-spring-boot-starter.git</connection>
         <developerConnection>scm:git:git@github.com:jclohmann/wait-for-database-spring-boot-starter.git</developerConnection>
         <url>http://github.com/jclohmann/wait-for-database-spring-boot-starter/tree/master</url>
-      <tag>0.1</tag>
+      <tag>0.1.1</tag>
   </scm>
 
     <distributionManagement>
